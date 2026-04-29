@@ -22,3 +22,5 @@ Um das Skript lokal auszuführen, folge diesen Schritten:
    git clone [https://github.com/DEIN-BENUTZERNAME/DEIN-PROJEKTNAME.git](https://github.com/DEIN-BENUTZERNAME/DEIN-PROJEKTNAME.git)
 
 kleine Änderung lokal
+
+Änderung auf GitHub
